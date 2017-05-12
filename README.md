@@ -1,5 +1,11 @@
-<<<<<<< HEAD
 # iD - friendly JavaScript editor for [OpenStreetMap](http://www.openstreetmap.org/)
+# 
+# GIS editor
+# GIS network analysis
+# GIS logistics management
+#
+# modified by TELERISE LTD
+# www.telerise.co.uk
 
 [![Build Status](https://travis-ci.org/openstreetmap/iD.svg?branch=master)](https://travis-ci.org/openstreetmap/iD)
 [![Greenkeeper badge](https://badges.greenkeeper.io/openstreetmap/iD.svg)](https://greenkeeper.io/)
@@ -65,6 +71,3 @@ See the [LICENSE.md](LICENSE.md) file for more details.
 ## Thank you
 
 Initial development of iD was made possible by a [grant of the Knight Foundation](https://www.mapbox.com/blog/knight-invests-openstreetmap/).
-=======
-# gis-editor
->>>>>>> 51c7defc4c396bb1d0a94699d4d17823327b33b6
