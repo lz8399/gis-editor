@@ -1,0 +1,18 @@
+{
+    "icon": "poi-power",
+    "fields": [
+        "operator",
+        "generator/source",
+        "generator/method",
+        "generator/type"
+    ],
+    "geometry": [
+        "point",
+        "vertex",
+        "area"
+    ],
+    "tags": {
+        "power": "generator"
+    },
+    "name": "Power Generator"
+}
