@@ -3,9 +3,9 @@
 # GIS editor
 # GIS network analysis
 # GIS logistics management
-#
-# modified by TELERISE LTD
-# www.telerise.co.uk
+
+modified by TELERISE LTD
+www.telerise.co.uk
 
 [![Build Status](https://travis-ci.org/openstreetmap/iD.svg?branch=master)](https://travis-ci.org/openstreetmap/iD)
 [![Greenkeeper badge](https://badges.greenkeeper.io/openstreetmap/iD.svg)](https://greenkeeper.io/)
